@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -107981364, guid: 741884b37a0234d86bb740e55081cd5f, type: 3}
+  m_Name: UDP Settings
+  m_EditorClassIdentifier: 
+  UnityProjectID: 840dcdd9-138f-4c65-9a23-6ce1e265d2f9
+  UnityClientID: gCruZ9TQtDZUF3SJKBLy9w
+  UnityClientKey: a2pobGsK2Plnp-Sno5Xe1U9vNc_6QGJGiSR4rO__QvQ
+  UnityClientRSAPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoUZV9ehJ7NAz2A8aokHjbSRMUg471KGJbqo0NCXGqSPiqVMN/ijKyhCErGzrpAfk8JIa6KIWIBUlMoALZVaXP0T05LaGU8iIaqCrpYHVvDihyw1v3yXaNSTYccJkmCgSRAeKV9pK1cPbVeckfxr2bqarQeJiZNaoKCt+fBqWQ7UML0YDCKtcGQfaCwg16kZyyrXC471JARHxbURYgJaPnIodiApHL+e1fwlVttEl3myNHB9RUp/P4d3kLp6z8/qwn262gbiCRD06k8TkyaNeFicyAamJ26IQ3JKL5zSPe16RYM2AmNBMB9W+A6V8zbdlE8M5Jy6VlNRTMiIrZ4+HRwIDAQAB
+  AppName: Burgrilla
+  AppSlug: 37f26b82-cdcf-4b74-a787-0a526cb0cc1d
+  AppItemId: 60cf26c73958a12f9156078c
+  Permission: 
